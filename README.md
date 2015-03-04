@@ -11,9 +11,7 @@ This software is released under the MIT License,
 を利用。
 
 スマートカードアクセスには
-
 http://wikiwiki.jp/webapp/?NFC%2FPC_SC%A5%B5%A5%F3%A5%D7%A5%EB
-
 http://eternalwindows.jp/security/scard/scard00.html
 
 を参考にさせていただきました。
