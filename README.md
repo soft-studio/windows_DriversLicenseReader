@@ -5,6 +5,8 @@ VisualStudio2010上で、C#にて開発しました。
 This software is released under the MIT License,
 
 動作はPaSoRi(RC-S380)にて確認しましたが、スマートカードAPIを利用しておりますので、他のICカードR/Wでも読めると思います。
+SCR311CLでは、制御コマンドエラーが発生します。Scard.csのreadCard呼び出しをコメントアウトしてください。
+後ほど対応します。
 
 顔写真用のJPEG2000デコードには、
 「csj2k」https://github.com/cureos/csj2k
